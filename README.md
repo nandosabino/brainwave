@@ -1,8 +1,16 @@
-# React + Vite
+# 🌊 Brainwave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um site moderno com design fluido, animações suaves e estética minimalista.  
+Desenvolvido com foco em experiência visual e desempenho.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview 🖼
+
+![Preview do site](public/Preview.png)
+
+---
+
+## Confira Online 🔗
+
+🌐 [Acesse o projeto](https://nandosabino.github.io/brainwave)
